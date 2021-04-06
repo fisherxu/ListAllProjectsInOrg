@@ -1,0 +1,6 @@
+# github.com/modood/table v0.0.0-20200225102042-88de94bb9876
+## explicit
+github.com/modood/table
+# github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80
+## explicit
+github.com/tomnomnom/linkheader
